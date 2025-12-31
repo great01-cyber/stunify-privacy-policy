@@ -1,10 +1,10 @@
 # stunify-privacy-policy
 
-# Privacy Policy for **[Your App Name]**
+# Privacy Policy for **[Stunify]**
 
 **Last updated:** 31 December 2025
 
-This Privacy Policy explains how **[Your App Name]** (“we”, “us”, “our”) collects, uses, stores, and protects your information when you use our mobile application (the “App”).
+This Privacy Policy explains how **[Stunify]** (“we”, “us”, “our”) collects, uses, stores, and protects your information when you use our mobile application (the “App”).
 
 By using the App, you agree to the practices described in this Privacy Policy.
 
@@ -12,10 +12,10 @@ By using the App, you agree to the practices described in this Privacy Policy.
 
 ## 1. Who We Are
 
-- **App Name:** [Your App Name]  
+- **App Name:** [Stunify]  
 - **Purpose:** A student-focused donation platform  
-- **Developer/Operator:** [Your Name or Company]  
-- **Support Email:** [your-email@example.com]  
+- **Developer/Operator:** [Ujah Obinna John]  
+- **Support Email:** [greatujah088@gmail.com]  
 - **Country:** United Kingdom
 
 ---
@@ -47,6 +47,7 @@ The App is designed primarily for students. Verified student accounts (for examp
 - Password (securely handled by our authentication provider)  
 - University name (optional)  
 - Profile photo (optional)
+- Graduation Year
 
 **Donation & Listing Information**
 - Item title, category, and description  
@@ -54,7 +55,7 @@ The App is designed primarily for students. Verified student accounts (for examp
 - Pickup or handover notes you choose to share  
 
 **Messages & Requests**
-- In-app messages (if messaging is enabled)  
+- In-app messages  
 - Item requests and confirmations  
 
 **Support Requests**
@@ -188,7 +189,7 @@ You may have the right to:
 - Restrict or object to certain processing  
 - Withdraw consent where applicable  
 
-To exercise these rights, contact: **[your-email@example.com]**
+To exercise these rights, contact: **[greatujah088@gmail.com.com]**
 
 ---
 
@@ -205,8 +206,7 @@ Some data may be retained temporarily for security or legal reasons.
 ## 12. Push Notifications
 
 You can manage notification preferences:
-- Within the App (if available), or  
-- Through your device settings
+- Within the App.
 
 ---
 
@@ -237,7 +237,7 @@ Significant changes will be communicated via the App or email.
 
 If you have questions or concerns about this Privacy Policy, contact:
 
-**Email:** [your-email@example.com]  
-**Developer/Company:** [Your Name or Company]
+**Email:** [greatujah088@gmail.com]  
+**Developer/Company:** [Ujah Obinna John]
 
 ---
